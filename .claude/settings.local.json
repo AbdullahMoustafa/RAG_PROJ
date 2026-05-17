@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(venv2/Scripts/python.exe main.py)",
+      "Bash(venv2/Scripts/python.exe --version)",
+      "Bash(venv2/Scripts/python.exe -m pip install -r requirements.txt)"
+    ]
+  }
+}
